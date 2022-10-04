@@ -36,7 +36,7 @@ Role Variables
 Dependencies
 ------------
 
--
+- Docker installed as pip module
 
 Example Playbook
 ----------------
